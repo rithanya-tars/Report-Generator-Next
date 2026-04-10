@@ -1,0 +1,121 @@
+{
+  "reference_deck_summary": "AMEX-style business review deck. TARS purple branding with pink/salmon title bars. Every content slide has TARS logo top-left, client logo beside it, and slide title in a rounded pink bar on the right. Data slides use full-width purple-header tables above two-column chart+insights layouts. Charts are clean and minimal with no gridlines on a white background.",
+  "slide_width_inches": 13.333,
+  "slide_height_inches": 7.5,
+  "fonts": {
+    "title": "Calibri",
+    "body": "Calibri",
+    "mono": "Consolas"
+  },
+  "colors": {
+    "tars_purple": "#6B2D8B",
+    "table_header_bg": "#4A154B",
+    "table_header_text": "#FFFFFF",
+    "title_bar_bg": "#F8D7DA",
+    "title_bar_text": "#4A154B",
+    "chart_blue": "#4472C4",
+    "chart_red": "#C0504D",
+    "chart_palette": ["#4472C4", "#C0504D", "#E97132", "#70AD47", "#FFC000", "#5B9BD5"],
+    "body_text": "#333333",
+    "table_body_bg": "#FFFFFF",
+    "table_border": "#D9D9D9",
+    "slide_bg": "#FFFFFF",
+    "purple_line": "#6B2D8B"
+  },
+  "header": {
+    "tars_logo": {
+      "left_inches": 0.4,
+      "top_inches": 0.25,
+      "width_inches": 1.3
+    },
+    "client_logo": {
+      "left_inches": 1.9,
+      "top_inches": 0.25,
+      "width_inches": 1.3
+    },
+    "title_bar": {
+      "left_inches": 3.8,
+      "top_inches": 0.2,
+      "width_inches": 9.1,
+      "height_inches": 0.6,
+      "corner_radius_inches": 0.15,
+      "bg_color": "#F8D7DA",
+      "font_size": 20,
+      "font_color": "#4A154B",
+      "font_bold": true
+    }
+  },
+  "content_area": {
+    "top_inches": 1.2,
+    "left_inches": 0.5,
+    "width_inches": 12.333,
+    "height_inches": 5.8
+  },
+  "two_column_layout": {
+    "left_column": {
+      "left_inches": 0.5,
+      "top_inches": 1.2,
+      "width_inches": 6.0,
+      "height_inches": 5.5
+    },
+    "right_column": {
+      "left_inches": 6.8,
+      "top_inches": 1.2,
+      "width_inches": 6.0,
+      "height_inches": 5.5
+    }
+  },
+  "table_style": {
+    "header_bg": "#4A154B",
+    "header_font_color": "#FFFFFF",
+    "header_font_size": 12,
+    "body_bg": "#FFFFFF",
+    "body_font_size": 11,
+    "border_color": "#D9D9D9",
+    "alt_row_bg": "#F5F5F5"
+  },
+  "slide_templates": {
+    "title_slide": {
+      "title_font_size": 36,
+      "subtitle_font_size": 18,
+      "tars_logo_centered_top_inches": 1.5,
+      "tars_logo_centered_width_inches": 3.0,
+      "purple_line_top_inches": 3.2,
+      "client_logo_top_inches": 3.5,
+      "client_logo_width_inches": 2.5,
+      "title_top_inches": 5.0,
+      "title_color": "#6B2D8B"
+    },
+    "content_slide": {
+      "heading_font_size": 20,
+      "body_font_size": 14,
+      "bullet_bold_prefix": true
+    },
+    "chart_slide": {
+      "chart_left_inches": 0.5,
+      "chart_top_inches": 1.2,
+      "chart_width_inches": 6.0,
+      "chart_height_inches": 5.5,
+      "insights_left_inches": 6.8,
+      "insights_top_inches": 1.2,
+      "insights_width_inches": 6.0,
+      "insights_height_inches": 5.5
+    },
+    "data_slide": {
+      "table_top_inches": 1.2,
+      "table_height_inches": 2.8,
+      "chart_top_inches": 4.2,
+      "chart_width_inches": 6.0,
+      "chart_height_inches": 3.0,
+      "insights_left_inches": 6.8,
+      "insights_top_inches": 4.2,
+      "insights_width_inches": 6.0,
+      "insights_height_inches": 3.0
+    }
+  },
+  "contact_slide": {
+    "email": "pratiksha@hellotars.com",
+    "instagram": "@hellotars.ai",
+    "website": "www.hellotars.com"
+  }
+}
